@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Deep Learning generated outputs
+session2_programs/artifacts/
